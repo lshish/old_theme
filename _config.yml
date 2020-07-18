@@ -10,6 +10,10 @@ highlighter: pygments
 paginate: 20
 
 markdown: rdiscount
+
+# theme: centrarium
+remote_theme: centrarium
+
 rdiscount:
     extensions: ['smart']
 
